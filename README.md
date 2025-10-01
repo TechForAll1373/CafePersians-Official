@@ -2,7 +2,8 @@
 
 > **پلتفرم جامع ارتباطی و خدمات دیجیتال برای جامعه فارسی‌زبان**
 
-[![Live Demo](https://img.shields.io/badge/🚀_دمو-زنده_در_گیت‌هاب-blue?style=for-the-badge&logo=github)](https://techforall1373.github.io/CafePersians/)
+
+(https://img.shields.io/badge/🚀_دمو-زنده_در_گیت‌هاب-blue?style=for-the-badge&logo=github)](https://techforall1373.github.io/CafePersians/)
 [![License](https://img.shields.io/badge/لایسنس-MIT-green?style=for-the-badge)](LICENSE)
 [![PWA](https://img.shields.io/badge/PWA-پشتیبانی_شده-orange?style=for-the-badge&logo=pwa)]
 
