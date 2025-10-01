@@ -2,8 +2,7 @@
 
 > **پلتفرم جامع ارتباطی و خدمات دیجیتال برای جامعه فارسی‌زبان**
 
-
-(https://img.shields.io/badge/🚀_دمو-زنده_در_گیت‌هاب-blue?style=for-the-badge&logo=github)](https://techforall1373.github.io/CafePersians/)
+[![Live Demo](https://img.shields.io/badge/🚀_دمو-زنده_در_گیت‌هاب-blue?style=for-the-badge&logo=github)](https://techforall1373.github.io/CafePersians/)
 [![License](https://img.shields.io/badge/لایسنس-MIT-green?style=for-the-badge)](LICENSE)
 [![PWA](https://img.shields.io/badge/PWA-پشتیبانی_شده-orange?style=for-the-badge&logo=pwa)]
 
@@ -41,14 +40,15 @@
 
 ---
 
-##💖 حمایت مالی
+## 💖 حمایت مالی
+
+از طریق آدرس‌های زیر می‌توانید از توسعه این پروژه حمایت کنید:
 TRX = TPiDbYoBH3rFJfAgV3QL93FLNg4mM5DpVi
 USDC = TPiDbYoBH3rFJfAgV3QL93FLNg4mM5DpVi
 TRX = TRYkquczj9S8b6udMPkhGyLCLMZSKtejgG
 AVAX = 0x817aF430F901D1658A967467ddCA929FFC03b42f
 RVN = RWjrY8UjeuTqjppRVaXNhzSA8yB1r7187R
 
-از طریق آدرس‌های زیر می‌توانید از توسعه این پروژه حمایت کنید:
 
 > جزئیات کامل در [CafePersians.io](https://techforall1373.github.io/Cafepersians.io/)
 
